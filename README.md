@@ -39,6 +39,7 @@ avec un pourcentage allant de 17 à 35%.
 
 ## 👤 Auteur
 Alpha DIALLO – Master 1 DSC 2024-2025, Université Jean Monnet
+
 Directeur de projet : M. Jacquenet François
 
 ## 📄 Licence
