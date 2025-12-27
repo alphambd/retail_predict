@@ -36,5 +36,5 @@ desktop.ini
 *.swp
 *.swo
 
-# Logs
-*"data/monthly_sales.csv" 
+"# Fichiers de donn�es volumineux" 
+"data/monthly_sales.csv" 
