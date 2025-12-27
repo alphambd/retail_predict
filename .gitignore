@@ -37,5 +37,5 @@ desktop.ini
 *.swo
 
 "# Fichiers de donn�es volumineux" 
-data/monthly_sales.csv
+#data/monthly_sales.csv
 
