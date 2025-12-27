@@ -37,4 +37,4 @@ desktop.ini
 *.swo
 
 # Logs
-*.log"data/monthly_sales.csv" 
+*"data/monthly_sales.csv" 
