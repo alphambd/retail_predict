@@ -1,0 +1,40 @@
+# Environnements Python
+venv/
+env/
+forecast_env/
+__pycache__/
+*.pyc
+
+# Logs et checkpoints
+lightning_logs/
+checkpoints/
+*.ckpt
+
+# Données et modèles
+*.csv
+*.parquet
+*.xlsx
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+*.hdf5
+deepar_*/
+
+# Streamlit
+.streamlit/
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
