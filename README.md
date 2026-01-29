@@ -4,9 +4,12 @@
 Application interactive de prévision des ventes développée dans le cadre d'un TER (Master 1 DSC). L'outil permet de prédire la demande à différentes granularités (produit, catégorie, magasin) en comparant plusieurs modèles de séries temporelles.
 
 ## ✨ Fonctionnalités  
-- **Exploration interactive** des données (M5 Forecasting ou données synthétiques)  
+- **Exploration interactive** des données (M5 Forecasting ou données synthétiques) 
+  ![Courbe d'exploration du produit d'id CA_1](data/img/exploration_food_CA_1.png)
 - **Prévisions avec 7 modèles** : Prophet, XGBoost, LSTM, DeepAR, FNN, SVM, ELM  
+![Courbe de comparaison des modèles pour la catégorie d'id FOODS_1_001_CA_1](data/img/comp__food_FOODS_1_001_CA_1.png)
 - **Comparaison visuelle** des performances et métriques (MSE, RMSE, MAPE)  
+![Tableau des métriques pour la catégorie d'id FOODS_1_001_CA_1CA_1](data/img/metrics_food_FOODS_1_001_CA_1.png)
 - **Interface intuitive** développée avec Streamlit  
 
 ## 📊 Données utilisées  
