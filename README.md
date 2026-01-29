@@ -5,16 +5,30 @@ Application interactive de prévision des ventes développée dans le cadre d'un
 
 ## ✨ Fonctionnalités  
 - **Exploration interactive** des données (M5 Forecasting ou données synthétiques) 
-  ![Courbe d'exploration du produit d'id CA_1](data/img/exploration_food_CA_1.png)
-- **Prévisions avec 7 modèles** : Prophet, XGBoost, LSTM, DeepAR, FNN, SVM, ELM  
-![Courbe de comparaison des modèles pour la catégorie d'id FOODS_1_001_CA_1](data/img/comp__food_FOODS_1_001_CA_1.png)
-- **Comparaison visuelle** des performances et métriques (MSE, RMSE, MAPE)  
-![Tableau des métriques pour la catégorie d'id FOODS_1_001_CA_1CA_1](data/img/metrics_food_FOODS_1_001_CA_1.png)
-- **Interface intuitive** développée avec Streamlit  
 
-## 📊 Données utilisées  
+<!-- ![Courbe d'exploration du produit d'id CA_1](data/img/exploration_food_CA_1.png) -->
+<div align="center">
+  <img src="data/img/exploration_food_CA_1.png" alt="Courbe d'exploration du produit d'id CA_1" width="800" height="400">
+</div>
+
+- **Prévisions avec 7 modèles** : Prophet, XGBoost, LSTM, DeepAR, FNN, SVM, ELM
+  
+<div align="center">
+  <img src="data/img/comp__food_FOODS_1_001_CA_1.png" alt="Courbe de comparaison des modèles pour la catégorie d'id FOODS_1_001_CA_1" width="800" height="400">
+</div>
+
+- **Comparaison visuelle** des performances et métriques (MSE, RMSE, MAPE)  
+
+<div align="center">
+  <img src="data/img/metrics_food_FOODS_1_001_CA_1.png" alt="Tableau des métriques pour la catégorie d'id FOODS_1_001_CA_1CA_1" width="600" height="400">
+</div>
+
+- **Interface intuitive** développée avec Streamlit
+
+## 📊 Données utilisées 
 1. **Données synthétiques** : générées avec tendance, saisonnalité et bruit contrôlés  
-2. **M5 Forecasting** : données réelles de ventes Walmart (Kaggle)  
+2. **M5 Forecasting** : données réelles de ventes Walmart (Kaggle)
+NB : Les données étant trop volumineux ne sont pas dispo dans ce dépot, mais je peux vous les fournir à la demande par Discord (alphadiallo7716).
 
 ## 🛠️ Technologies  
 - **Langage** : Python  
